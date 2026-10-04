@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Sitemap: https://leodesignstudio.com/sitemap.xml
+
+# Block bad bots
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
